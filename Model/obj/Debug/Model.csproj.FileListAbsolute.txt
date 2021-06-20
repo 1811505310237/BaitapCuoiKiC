@@ -1,0 +1,12 @@
+D:\ProjectVS2015\SretKsorShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\Model.dll.config
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\Model.dll
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\Model.pdb
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\EntityFramework.dll
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\EntityFramework.xml
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectVS2015\SretKsorShop\Model\obj\Debug\Model.dll
+D:\ProjectVS2015\SretKsorShop\Model\obj\Debug\Model.pdb
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\PagedList.dll
+D:\ProjectVS2015\SretKsorShop\Model\bin\Debug\PagedList.xml
